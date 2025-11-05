@@ -1,4 +1,4 @@
-## Hi there 👋
+## 601 솔루션즈 👋
 
 <!--
 
@@ -10,3 +10,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+### 이들은 누구인가?
+- 정준혁
+  - 경상국립대 항공우주 및 소프트웨어공학부
+- 전혁건
+  - 경상국립대 소프트웨어공학과
+- 김도원
+  - 경상국립대 소프트웨어공학과
+- 문기준
+  - 경상국립대 소프트웨어공학과
